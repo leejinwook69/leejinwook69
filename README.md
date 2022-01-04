@@ -15,3 +15,6 @@ Skills: C, C#,  JAVA
 
 ![GitHub metrics](https://metrics.lecoq.io/leejinwook69)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=leejinwook69)  
+
+![Profile views](https://gpvc.arturio.dev/leejinwook69)  
