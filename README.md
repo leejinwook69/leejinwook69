@@ -6,10 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejinwook69)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leejinwook69&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/leejinwook69)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=leejinwook69)  
-
-![Profile views](https://gpvc.arturio.dev/leejinwook69)  
