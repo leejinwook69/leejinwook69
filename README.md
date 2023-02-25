@@ -1,8 +1,19 @@
-### Hi there 👋, This is **JinWook Lee** using GitHub
 
+<h1>## Hi there 👋, This is JinWook Lee using GitHub</h1>
+<h4>Majoring in Computer Science & Game<br><br>
+Band_DHG Bass Player<br>
+</h4>
+<hr>
+<pre>
+<h3>#Stack</h3>Strong : C/++/#
 
+Knowledgable : Python, Java, Assembly
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leejinwook69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/leejinwoooook/)  
+<h3>#Contact</h3>leejinwook69@gmail.com<br>
+  
+
+</pre>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejinwook69)](https://github.com/anuraghazra/github-readme-stats)
 
