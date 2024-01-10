@@ -1,7 +1,7 @@
 
 <h1>## Hi there 👋, This is JinWook Lee using GitHub</h1>
 <h4>Majoring in Computer Science & Game<br><br>
-Band_DHG Bass Player<br>
+Bass Player @Band_DHG <br>
 </h4>
 <hr>
 <pre>
