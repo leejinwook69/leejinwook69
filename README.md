@@ -8,5 +8,5 @@
 <hr>
 <pre>
 お問い合わせがございましたら、こちらまでお願いいたします
-<h3>#Contact</h3>leejinwook69@gmail.com<br>
+<h3>#連絡先</h3>leejinwook69@gmail.com<br>
 </pre>
