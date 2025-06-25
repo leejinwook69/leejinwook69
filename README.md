@@ -1,5 +1,5 @@
 
-<h1>## Hi there 👋, This is Lee Jinwook using GitHub</h1>
+<h1> Jinwook Lee </h1>
 <h4>  Software Engineer🖥️ in Tokyo, Japan<br><br>
   Majored in Computer Science & Game<br>
   Bass Player🎸 @Band_DHG<br>
