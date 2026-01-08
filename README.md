@@ -1,6 +1,7 @@
 
 <h1> Jinwook Lee </h1>
   Majored in Computer Science & Game<br>
+  Software Engineer🖥️ in Tokyo, Japan<br>
   Bass Player🎸 @Band_DHG<br>
   
 </h4>
