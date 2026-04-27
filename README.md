@@ -8,4 +8,7 @@
 <hr>
 <pre>
 <h3>#連絡先</h3>leejinwook69@gmail.com<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leejinwook69)](https://solved.ac/leejinwook69
+😭👋
 </pre>
